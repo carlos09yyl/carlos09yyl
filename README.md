@@ -60,18 +60,10 @@ I enjoy building **immersive experiences** that mix design, storytelling, mechan
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos09yyl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Carlos's GitHub stats" />
-</p>
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos09yyl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos09yyl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
